@@ -70,7 +70,7 @@
                     </div>
                 </div>
                 <div class="mt-3 p-3 lg:text-lg">
-                    Nella mia <strong>esperienza di Sindaco del Comune di Monterosso (2014-2014</strong>, con la mia
+                    Nella mia <strong>esperienza di Sindaco del Comune di Monterosso (2014-2024</strong>, con la mia
                     comunità, ho scontato in prima persona la fragilità del territorio.
                     Il nostro bacino idro-grafico e la conformazione geografica, pretendono <strong>azioni
                     urgenti a tutela anche dei centri storici;</strong> per questo mi impegnerò affinché <strong>la

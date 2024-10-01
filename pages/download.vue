@@ -10,7 +10,7 @@
                     <img src="../assets/images/ema_voto_hd.jpg" class="" />
                 </div>
                 <div class="border rounded-md text-center">
-
+                    <img src="../assets/images/ema_manifesto_hd.jpg" class="" />
                 </div>
                 
             </div>
