@@ -3,40 +3,48 @@
         <footer class="relative bg-red-700 text-white pt-8 pb-6">
             <div class="container mx-auto px-5">
                 <div class="lg:grid lg:grid-cols-4 gap-5">
-                    <div class="lg:col-span-2">
-                        <span>Emanuele MOGGIA<br>Candidato Consigliere regione Liguria</span>
-                        <br><br>
-                        <span>
-                            <a href="mailto:">lamiaemail@email.it</a>
-                        </span>
-                        <br>
+                    <div class="lg:col-span-2 mt-5">
+                        <div>
+                            <span>Emanuele MOGGIA<br>Candidato Consigliere regione Liguria</span>
+                        </div>
+                        <div class="mt-5">
+                            <span>
+                                <a href="mailto:">lamiaemail@email.it</a>
+                            </span>
+                            <br>
 
-                        <span class="text-white text-sm font-light">
-                            +39 0187 018702
-                        </span>
-
+                            <span class="text-white text-sm font-light">
+                                +39 0187 018702
+                            </span>
+                        </div>
 
                     </div>
-                    <div class=" ">
-                        <span class="text-white font-light">
-                            Seguimi sui social
-                        </span>
-                        <br><br>
-                        <span class="p-3 font-thin font-mono">
-                            <i class="fa-brands fa-facebook-f"></i>
-                        </span>
-                        <span class="p-3 font-thin font-mono">
-                            <i class="fa-brands fa-instagram"></i>
-                        </span>
+                    <div class="mt-5">
+                        <div>
+                            <span class="text-white font-light">
+                                Seguimi sui social
+                            </span>
+                        </div>
+                        <div class="lg:mt-3 mt-1">
+                            <span class="p-3 font-thin font-mono">
+                                <i class="fa-brands fa-facebook-f"></i>
+                            </span>
+                            <span class="p-3 font-thin font-mono">
+                                <i class="fa-brands fa-instagram"></i>
+                            </span>
+                        </div>
                     </div>
-                    <div class=" ">
-                        <span class="text-white font-light">
-                            Scarica i materiali
-                        </span>
-                        <br><br>
-                        <span class="p-3 font-thin">
-                            <a href="">download</a>
-                        </span>
+                    <div class="mt-5">
+                        <div>
+                            <span class="text-white font-light">
+                                Scarica i materiali
+                            </span>
+                        </div>
+                        <div class="lg:mt-3 mt-1">
+                            <span class="p-3 font-thin">
+                                <a href="">download</a>
+                            </span>
+                        </div>
                     </div>
                 </div>
             </div>
