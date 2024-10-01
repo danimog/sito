@@ -97,7 +97,7 @@
 
 
         <div class="mybg mx-auto flex justify-center mb-10">
-            <img class="m-auto" src="../assets/images/ema_voto.jpeg" alt="" />
+            <img class="m-auto" src="../assets/images/ema_voto_hd.jpg" alt="" />
         </div>
     </div>
 </template>

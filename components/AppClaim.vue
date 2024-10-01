@@ -4,7 +4,7 @@
     </div> -->
 
     <div class="flex justify-center w-screen border my-2">
-    <img class="object-fill w-full max-w-full m-auto" src="../assets/images/ema_horiz.jpeg" alt="" />
+    <img class="object-fill w-full max-w-full m-auto" src="../assets/images/ema_horiz_hd.jpg" alt="" />
   </div>
       
   
