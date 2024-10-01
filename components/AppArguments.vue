@@ -1,15 +1,16 @@
 <template>
     <div>
-        <div class="p-8 mx-auto lg:grid lg:grid-cols-4 gap-3 justify-center mb-20">
+        <div class="p-10 mx-auto lg:grid lg:grid-cols-2 gap-10 justify-center mb-20">
             <div class="border rounded-xl border-red-900 text-center my-5 ">
                 <div class="lg:flex gap-3 content-center justify-center p-2">
-                    
-                    <h2 class="uppercase font-semibold text-2xl inline-block align-center py-1 bg-clip-text text-transparent bg-gradient-to-r from-green-700 to-blue-600">
+
+                    <h2
+                        class="uppercase font-semibold text-3xl inline-block align-center py-1 bg-clip-text text-transparent bg-gradient-to-r from-green-700 to-blue-600">
                         Sanità
                     </h2>
                     <div class="flex justify-center">
                         <i class="fa-regular fa-hospital fa-2x"></i>
-                        
+
                         <!-- <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                             stroke="currentColor" class="size-10">
                             <path stroke-linecap="round" stroke-linejoin="round"
@@ -17,18 +18,20 @@
                         </svg> -->
                     </div>
                 </div>
-                <div class="mt-3">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et
-                    dolore magna aliqua. Ut <strong>enim ad minim veniam, quis nostrud</strong> exercitation ullamco
-                    laboris
-                    nisi ut aliquip ex
-                    ea commodo consequat.
+                <div class="mt-3 p-3 lg:text-lg">
+                    Credo nella sanità <strong>pubblica e nella sanità di prossimità con l’obiettivo di
+                    “avvicinare” i primi interventi su luoghi maggiormente disagiati e più distanti.</strong>
+                    Voglio una Regione in cui non ci siano più 90mila cittadini che scelgono di curarsi
+                    lontano. Sono convinto dell’importanza dei 5 <strong>Punti di Primo Intervento (PPI) della
+                    Regione Liguria</strong> e per questo dobbiamo impegnarci nel mantenimento di quello di
+                <strong>Levanto</strong>, punto di riferimento del nostro territorio, perché <strong>la sua presenza
+                    alleggerisce la pressione sugli ospedali di Spezia e Sarzana.</strong>
                 </div>
             </div>
             <div class="border rounded-xl border-red-900  text-center my-5 ">
                 <div class="lg:flex gap-3 content-center justify-center p-2">
-                    <h2 class="uppercase font-semibold text-2xl inline-block align-center py-1 bg-clip-text text-transparent bg-gradient-to-r from-green-700 to-blue-600">
+                    <h2
+                        class="uppercase font-semibold text-3xl inline-block align-center py-1 bg-clip-text text-transparent bg-gradient-to-r from-green-700 to-blue-600">
                         Lavoro
                     </h2>
                     <div class="flex justify-center">
@@ -39,18 +42,23 @@
                         </svg>
                     </div>
                 </div>
-                <div class="mt-3">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et
-                    dolore magna aliqua. Ut <strong>enim ad minim veniam, quis nostrud</strong> exercitation ullamco
-                    laboris
-                    nisi ut aliquip ex
-                    ea commodo consequat.
+                <div class="mt-3 p-3 lg:text-lg">
+                    Credo che il tessuto delle nostre Comunità debba essere valorizzato attraverso le
+                    tante <strong>competenze professionali</strong> del territorio.
+                    Credo che si debba rimettere al centro la nostra provincia anche come luogo dove
+                    poter tornare ad abitare per lavorare smart-working.
+                    Il <strong>turismo, parte integrante del lavoro, deve tornare a essere una parte del tutto,
+                    seppur motore trainante.</strong> In nome della quantità non si può trascurare la qualità e
+                    solo mettendo a valore le risorse, anche imprenditoriali del territorio, possiamo
+                <strong>costruire una provincia che risponda prima di tutto ai bisogni dei suoi abitanti che
+                    meritano di lavorare, ma anche di vivere, nel luogo che amano e nelle località
+                    dove lavorano.</strong>
                 </div>
             </div>
             <div class="border rounded-xl border-red-900 text-center my-5 ">
                 <div class="lg:flex gap-3 content-center justify-center p-2">
-                    <h2 class="uppercase font-semibold text-2xl inline-block align-center py-1 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-green-700">
+                    <h2
+                        class="uppercase font-semibold text-3xl inline-block align-center py-1 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-green-700">
                         Ambiente
                     </h2>
                     <div class="flex justify-center">
@@ -61,18 +69,22 @@
                         </svg>
                     </div>
                 </div>
-                <div class="mt-3">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et
-                    dolore magna aliqua. Ut <strong>enim ad minim veniam, quis nostrud</strong> exercitation ullamco
-                    laboris
-                    nisi ut aliquip ex
-                    ea commodo consequat.
+                <div class="mt-3 p-3 lg:text-lg">
+                    Nella mia <strong>esperienza di Sindaco del Comune di Monterosso (2014-2014</strong>, con la mia
+                    comunità, ho scontato in prima persona la fragilità del territorio.
+                    Il nostro bacino idro-grafico e la conformazione geografica, pretendono <strong>azioni
+                    urgenti a tutela anche dei centri storici;</strong> per questo mi impegnerò affinché <strong>la
+                    Regione dia il massimo sostegno alle realtà territoriali a rischio,</strong> per la salvaguardia
+                    delle persone, cittadini e turisti, dell’ambiente fonte di economie e delle piccole e
+                    grandi imprese.
+                    Non da ultimo credo nell’urgenza di rimettere in cima alle priorità la <strong>valorizzazione
+                    dell’agricoltura e la pesca,</strong> anche favorendo investimenti sui giovani.
                 </div>
             </div>
             <div class="border rounded-xl border-red-900  text-center my-5 ">
                 <div class="lg:flex gap-3 content-center justify-center p-2">
-                    <h2 class="uppercase font-semibold text-2xl inline-block align-center py-1 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-green-700">
+                    <h2
+                        class="uppercase font-semibold text-3xl inline-block align-center py-1 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-green-700">
                         Infrastrutture
                     </h2>
                     <div class="flex justify-center">
@@ -84,13 +96,19 @@
 
                     </div>
                 </div>
-                <div class="mt-3">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et
-                    dolore magna aliqua. Ut <strong>enim ad minim veniam, quis nostrud</strong> exercitation ullamco
-                    laboris
-                    nisi ut aliquip ex
-                    ea commodo consequat.
+                <div class="mt-3 p-3 lg:text-lg">
+                    La condizione delle infrastrutture a livello regionale è critica: per quanto riguarda i
+                <strong>collegamenti stradali</strong>, nonostante alcuni interventi spot la situazione connessa alla
+            <strong>viabilità provinciale è pessima</strong>, in particolare lungo <strong>le strade della riviera - Cinque Terre,
+                    Val di Vara e zona circostante il capoluogo spezzino:</strong> bisogna intervenire in una
+                <strong>migliore distribuzione delle risorse e all&#39;apertura di voci di bilancio dedicate al
+                    ripristino dei tratti stradali ammalorati</strong>, oltre ad un controllo capillare degli
+                    interventi eseguiti negli anni: le <strong>procedure di digitalizzazione possono consentire
+                    un maggiore controllo delle risorse impiegate</strong> oltre a rappresentare uno strumento
+                    per la segnalazione da parte del cittadino o delle pubbliche amministrazioni
+                    comunali, perché insieme possiamo contribuire per una migliore gestione del bene
+                    pubblico ed <strong>aumentare così la sicurezza infrastrutturale a beneficio della
+                    comunità.</strong>
                 </div>
             </div>
         </div>

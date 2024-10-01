@@ -5,29 +5,22 @@
                 In Regione, uno di Noi
             </span>
         </div>
-        <p class="my-5">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut <strong>enim ad minim veniam, quis nostrud</strong> exercitation ullamco laboris
-            nisi ut aliquip ex
-            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-            nulla pariatur. Excepteur sint occaecat cupidatat non proident, <strong>sunt in culpa qui officia</strong>
-            deserunt mollit
-            anim id est laborum
-        </p>
-
-        <p class="my-5">
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem
-            aperiam, eaque ipsa quae ab illo <strong>inventore veritatis et quasi architecto</strong> beatae vitae dicta
-            sunt explicabo.
-            Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni
-            dolores eos qui ratione voluptatem sequi nesciunt. <strong>Neque porro quisquam est, qui dolorem
-                ipsum</strong> quia dolor
-            sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore
-            magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis
-            suscipit laboriosam, <strong>nisi ut aliquid ex ea commodi</strong> consequatur? Quis autem vel eum iure
-            reprehenderit qui in
-            ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas
-            nulla pariatur?
+        <p class="my-5 lg:px-20 lg:text-xl">
+            <strong>Il 27 e 28 ottobre andremo a votare per eleggere il nuovo Presidente</strong>, dopo
+            l’arresto e le dimissioni di Toti.
+            Andiamo alle urne per segnare un <strong>cambio di passo</strong>, dove al centro sia il <strong>bene
+                comune</strong> e non gli interessi di alcuni.<br>
+            <strong>Il buon governo di un territorio è un dovere che ciascuno di noi esprime con il
+                proprio voto</strong>, in prima persona.<br><br>
+            <strong>Io ho gettato il cuore oltre l’ostacolo</strong> e ho deciso <strong>sostenere la candidatura di
+                Andrea Orlando Presidente.</strong><br><br>
+            Insieme so che possiamo riuscire in questa <strong>rivoluzione gentile</strong>, se <strong>superiamo le
+                barriere territoriali e ideologiche:</strong> per questo ho deciso di far parte della <strong>Lista
+                Civica
+                “Liguri a testa alta”.</strong><br>
+            <strong>Nei 10 anni in cui sono stato sindaco di Monterosso (2014-2024), ho sofferto la
+                lontananza del Palazzo della Regione e l’arroganza di chi ci ha amministrato:</strong> con
+            voi voglio una Regione dove il dialogo con tutte le realtà del territorio sia diretto.
         </p>
 
         <div class="text-5xl font-extrabold text-center mt-20">
@@ -35,14 +28,35 @@
                 I valori che ci uniscono
             </span>
         </div>
-        <p class="my-5">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut <strong>enim ad minim veniam, quis nostrud</strong> exercitation ullamco laboris
-            nisi ut aliquip ex
-            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-            nulla pariatur. Excepteur sint occaecat cupidatat non proident, <strong>sunt in culpa qui officia</strong>
-            deserunt mollit
-            anim id est laborum
+        <p class="my-5 lg:px-20 lg:text-xl">
+            Il bene del nostro territorio, dove la <strong>sanità</strong>, il <strong>lavoro</strong>, le <strong>infrastrutture</strong>, il
+            sostegno alle <strong>famiglia</strong>, le politiche per l’<strong>imprenditoria</strong> giovanile, l’attenzione
+            agli <strong>anziani</strong> e non ultima la <strong>cura del nostro territorio</strong>, sono i valori al centro del
+            mio impegno per migliorare il nostro territorio, fragile ma con grandi potenzialità.<br><br>
+            Ogni giorno, per tutto l’anno, sento la difficoltà di vivere in un <strong>territorio isolato</strong> e
+            la responsabilità di questa emarginazione troppo spesso è il risultato di <strong>scelte
+            amministrative portate avanti da chi non ha saputo ascoltare le esigenze
+            reali e quotidiane dei cittadini</strong> che non vedono riconosciute le loro
+            professionalità e a fatica si possono muovere; abitanti che per curarsi spesso
+            devono fare chilometri; famiglie sulle quali pesa la cura degli anziani e dei
+            bambini, perché mancano strutture adeguate soprattutto nei piccoli centri e in
+            alta stagione; giovani che scelgono di allontanarsi perché le possibilità lavorative
+            troppo spesso sono solo stagionali; pescatori e contadini emarginati in nome di
+            scelte che prescindono dalla tutela dell’ambiente.<br><br>
+        <strong>Io mi voglio impegnare per riportare il nostro territorio al centro del tavolo
+            politico.</strong><br><br>
+            Una <strong>provincia</strong> dove anche il suo <strong>capoluogo</strong> patisce <strong>l’impoverimento
+            generale delle infrastrutture:</strong> il sovraffollamento dei <strong>treni</strong>, il rincaro degli <strong>affitti</strong>,
+            l’incuria delle <strong>strade provinciali</strong> e, non ultima, una <strong>sanità</strong> pubblica e centrale
+
+            che patisce la carenza di Punti di Primo Intervento di prossimità e dove ogni
+            giorno è una lotta per mantenere quelli esistenti, come quello di Levanto; dove il
+            problema dell’<strong>overtourism</strong> ricade anche sulla città di Spezia che sconta così lo
+            stress di una stagione sempre più lunga ma nella quale diventa sempre più
+            difficile valorizzare la bellezza di un territorio che non è solo logo del quale farsi
+            vanto: il nostro territorio è cultura, lavoro, ambiente. E persone che nel territorio
+            vivono e accolgono i turisti che il nostro territorio non lo dovrebbero vivere solo
+            come una tappa della quale farsi vanto.
         </p>
     </div>
 </template>

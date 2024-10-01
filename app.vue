@@ -11,12 +11,9 @@ useHead ({
     <NuxtRouteAnnouncer />
     <NuxtWelcome /> 
   -->
+    
   <div>
-    <AppPreHeader />
-    <NewHeader />
-    <AppClaim />
-    <AppContent />
-    <AppArguments />
-    <AppFooter />
+    <NuxtPage />
+
   </div>
 </template>

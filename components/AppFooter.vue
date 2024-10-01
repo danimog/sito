@@ -42,7 +42,7 @@
                         </div>
                         <div class="lg:mt-3 mt-1">
                             <span class="p-3 font-thin">
-                                <a href="">download</a>
+                                <a href="/download">download</a>
                             </span>
                         </div>
                     </div>
