@@ -1,13 +1,22 @@
+<script setup>
+
+useHead ({
+  script: [{'src': 'https://kit.fontawesome.com/126e477cae.js'}]
+})
+
+</script>
+
 <template>
+  <!-- 
+    <NuxtRouteAnnouncer />
+    <NuxtWelcome /> 
+  -->
   <div>
-    <!-- <NuxtRouteAnnouncer />
-    <NuxtWelcome /> -->
-    <template>
-      <div class="container mx-auto mt-10">
-        <h1 class="text-4xl text-center font-bold">
-          Hello world!
-        </h1>
-      </div>
-    </template>
+    <AppPreHeader />
+    <NewHeader />
+    <AppClaim />
+    <AppContent />
+    <AppArguments />
+    <AppFooter />
   </div>
 </template>
