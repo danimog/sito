@@ -28,17 +28,17 @@
                         </div>
                         <div class="lg:mt-3 mt-1">
                             <a href="https://www.facebook.com/profile.php?id=61566932693746" target="_blank">
-                                <span class="p-3 font-thin font-mono">
+                                <span class="p-3 font-thin font-mono text-2xl">
                                     <i class="fa-brands fa-facebook-f"></i>
                                 </span>
                             </a>
                             <a href="https://www.instagram.com/emanuele_moggia/" target="_blank">
-                                <span class="p-3 font-thin font-mono">
+                                <span class="p-3 font-thin font-mono text-2xl">
                                     <i class="fa-brands fa-instagram"></i>
                                 </span>
                             </a>
                             <a href="https://www.tiktok.com/@emanuele.moggia" target="_blank">
-                                <span class="p-3 font-thin font-mono">
+                                <span class="p-3 font-thin font-mono text-2xl">
                                     <i class="fa-brands fa-tiktok"></i>
                                 </span>
                             </a>
