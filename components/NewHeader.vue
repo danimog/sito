@@ -20,8 +20,8 @@
                             </a>
                         </li> -->
                         <!-- <li class="p-5 xl:p-8"> -->
-                        <a
-                            href="/download" class="lg:border lg:border-white rounded-full font-bold px-2 py-2 font-thin font-mono">
+                        <a href="/download"
+                            class="lg:border lg:border-white rounded-full font-bold px-2 py-2 font-thin font-mono">
                             Scarica i materiali
                         </a>
                         <!-- </li> -->
@@ -29,15 +29,21 @@
                     </nav>
                 </div>
                 <div class="lg:col-span-2 lg:text-right">
-                    <span class="px-2 py-2 font-thin font-mono">
-                        <i class="fa-brands fa-facebook-f"></i>
-                    </span>
-                    <span class="px-2 py-2 font-thin font-mono">
-                        <i class="fa-brands fa-instagram"></i>
-                    </span>
-                    <span class="px-2 py-2 font-thin font-mono">
-                        <i class="fa-brands fa-tiktok"></i>
-                    </span>
+                    <a href="https://www.facebook.com/profile.php?id=61566932693746" target="_blank">
+                        <span class="p-3 font-thin font-mono">
+                            <i class="fa-brands fa-facebook-f"></i>
+                        </span>
+                    </a>
+                    <a href="https://www.instagram.com/emanuele_moggia/" target="_blank">
+                        <span class="p-3 font-thin font-mono">
+                            <i class="fa-brands fa-instagram"></i>
+                        </span>
+                    </a>
+                    <a href="https://www.tiktok.com/@emanuele.moggia" target="_blank">
+                        <span class="p-3 font-thin font-mono">
+                            <i class="fa-brands fa-tiktok"></i>
+                        </span>
+                    </a>
                 </div>
             </div>
         </header>
