@@ -35,6 +35,9 @@
                     <span class="px-2 py-2 font-thin font-mono">
                         <i class="fa-brands fa-instagram"></i>
                     </span>
+                    <span class="px-2 py-2 font-thin font-mono">
+                        <i class="fa-brands fa-tiktok"></i>
+                    </span>
                 </div>
             </div>
         </header>

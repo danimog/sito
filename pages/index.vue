@@ -5,6 +5,7 @@
         <AppClaim />
         <AppContent />
         <AppArguments />
+        <AppVideo />
         <AppFooter />
     </div>
 </template>

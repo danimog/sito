@@ -9,13 +9,14 @@
                         </div>
                         <div class="mt-5">
                             <span>
-                                <a href="mailto:">lamiaemail@email.it</a>
+
+                                <!-- <a href="mailto:">lamiaemail@email.it</a> -->
                             </span>
                             <br>
-
+                            <!-- 
                             <span class="text-white text-sm font-light">
                                 +39 0187 018702
-                            </span>
+                            </span> -->
                         </div>
 
                     </div>
@@ -26,12 +27,21 @@
                             </span>
                         </div>
                         <div class="lg:mt-3 mt-1">
-                            <span class="p-3 font-thin font-mono">
-                                <i class="fa-brands fa-facebook-f"></i>
-                            </span>
-                            <span class="p-3 font-thin font-mono">
-                                <i class="fa-brands fa-instagram"></i>
-                            </span>
+                            <a href="https://www.facebook.com/profile.php?id=61566932693746" target="_blank">
+                                <span class="p-3 font-thin font-mono">
+                                    <i class="fa-brands fa-facebook-f"></i>
+                                </span>
+                            </a>
+                            <a href="https://www.instagram.com/emanuele_moggia/" target="_blank">
+                                <span class="p-3 font-thin font-mono">
+                                    <i class="fa-brands fa-instagram"></i>
+                                </span>
+                            </a>
+                            <a href="https://www.tiktok.com/@emanuele.moggia" target="_blank">
+                                <span class="p-3 font-thin font-mono">
+                                    <i class="fa-brands fa-tiktok"></i>
+                                </span>
+                            </a>
                         </div>
                     </div>
                     <div class="mt-5">

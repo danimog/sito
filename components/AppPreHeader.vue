@@ -2,16 +2,16 @@
     <div class="bg-red-800 p-3">
         <div class="container text-right">
             <span class="text-white text-sm font-light">
-                <a href="mailto:lamiaemail@email.it">
-                    lamiaemail@email.it
+                <a target="_blank" href="https://www.orlandopresidente.it/">
+                    Orlando Presidente <i class="fa-solid fa-arrow-up-right-from-square"></i>
                 </a>
             </span>
-            <span class="text-white  font-light">
+            <!-- <span class="text-white  font-light">
                 |
             </span>
             <span class="text-white text-sm font-light">
                 +39 0187 018702
-            </span>
+            </span> -->
         </div>
     </div>
 </template>
