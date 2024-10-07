@@ -11,7 +11,7 @@
             acustica subacquea, della Difesa e delle energie rinnovabili.<br>
             Sono da sempre impegnato nel <strong>sociale e nell’associazionismo cattolico</strong>, ho avuto importanti
             esperienze di cooperazione internazionale in Africa e nelle favelas del Brasile.<br>
-            Sono stato per dieci anni <strong>Sindaco alle Cinque Terre, ricoprendo anche il ruolo di vice Presidente del
+            Sono stato per dieci anni <strong>Sindaco di Monterosso al Mare - Cinque Terre, ricoprendo anche il ruolo di vice Presidente del
             Parco Nazionale.</strong><br>
             Idealista e sognatore, ma sempre pragmatico e con i piedi ben piantati per terra, non ho dubbi che
             il mondo si possa cambiare in meglio, perché il futuro è nelle mani e nei cuori di chi, con impegno,
