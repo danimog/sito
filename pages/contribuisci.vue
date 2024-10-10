@@ -13,6 +13,11 @@
                 Intestatario: Silvana Sassarini, mandatario <br>
             </p>
 
+            <p class="text-3xl mt-20 font-bold text-green-700">
+                <a href="https://politic-ally.it/campaign/6707e06997a4c6154ac2a358" target="_blank">
+                    <strong>CONTRIBUISCI ONLINE!</strong>
+                </a>
+            </p>
         </div>
         
         <AppFooter />
