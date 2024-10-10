@@ -47,12 +47,17 @@
                     <div class="mt-5">
                         <div>
                             <span class="text-white font-light">
-                                Scarica i materiali
+                                Materiali e contributi
                             </span>
                         </div>
                         <div class="lg:mt-3 mt-1">
                             <span class="p-3 font-thin">
-                                <a href="/download">download</a>
+                                <a href="/download">Download materiali</a>
+                            </span>
+                        </div>
+                        <div class="lg:mt-3 mt-1">
+                            <span class="p-3 font-thin">
+                                <a href="/contribuisci">Contribuisci!</a>
                             </span>
                         </div>
                     </div>
