@@ -11,9 +11,9 @@
                     </a>
                 </div>
                 <div class="lg:col-span-4 text-center">
-                    <nav class="contents font-semibold text-base lg:text-lg">
+                    <nav class="contents font-semibold text-center text-base lg:text-lg">
 
-                    <ul class="mx-auto flex items-center">
+                    <ul class="mx-auto flex items-center justify-center">
                         <!-- <li class="p-5 xl:p-8 active">
                             <a href="">
                                 <span class="font-mono">Liguri a testa alta</span>
@@ -27,7 +27,7 @@
                         </li>
                         <li class="p-5 xl:p-8">
                             <a href="/contribuisci"
-                                class="lg:border lg:border-white rounded-full font-bold px-2 py-2 font-thin font-mono">
+                                class="border border-white rounded-full font-bold px-2 py-2 font-thin font-mono">
                                 Contribuisci!
                             </a>
                         </li>

@@ -6,13 +6,15 @@
             </span>
         </div>
         <p class="my-5 lg:px-20 lg:text-xl">
-            Dopo la <strong>Laurea in Ingegneria delle Telecomunicazioni</strong> ho conseguito il Master Universitario in
+            Dopo la <strong>Laurea in Ingegneria delle Telecomunicazioni</strong> ho conseguito il Master Universitario
+            in
             Geomatica Marina all’Istituto Idrografico della Marina Militare. Ho lavorato nell’ambito della
             acustica subacquea, della Difesa e delle energie rinnovabili.<br>
             Sono da sempre impegnato nel <strong>sociale e nell’associazionismo cattolico</strong>, ho avuto importanti
             esperienze di cooperazione internazionale in Africa e nelle favelas del Brasile.<br>
-            Sono stato per dieci anni <strong>Sindaco alle Cinque Terre, ricoprendo anche il ruolo di vice Presidente del
-            Parco Nazionale.</strong><br>
+            Sono stato per dieci anni <strong>Sindaco alle Cinque Terre, ricoprendo anche il ruolo di vice Presidente
+                del
+                Parco Nazionale.</strong><br>
             Idealista e sognatore, ma sempre pragmatico e con i piedi ben piantati per terra, non ho dubbi che
             il mondo si possa cambiare in meglio, perché il futuro è nelle mani e nei cuori di chi, con impegno,
             costanza e visione, si rende disponibile a lavorare per <strong>costruire il bene comune</strong>.
@@ -80,7 +82,17 @@
             vivono e accolgono i turisti che il nostro territorio non lo dovrebbero vivere solo
             come una tappa della quale farsi vanto.
         </p>
+        
+        <div class="text-center rounded-xl lg:mt-0 lg:mx-0 lg:px-0 mt-10 mx-3 px-3 py-5">
+            <p class="lg:text-3xl text-xl font-bold text-red-700">
+                <a class="border border-red-700 rounded-full p-3"
+                    href="/contribuisci" target="_blank">
+                    <strong class="uppercase">Contribuisci ! <i class="fa-regular fa-credit-card"></i></strong>
+                </a>
+            </p>
+        </div>
     </div>
+
 </template>
 
 <script setup>
