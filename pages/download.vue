@@ -21,6 +21,19 @@
                         <img src="../assets/docs/programma-orlando.png" />
                     </a>
                 </div>
+
+                <div class="rounded-md text-center p-3">
+                    <a href="/manifesto_ema.pdf" target="_blank">
+                        <img src="../assets/images/volantino_emanuele.png" />
+                    </a>
+                </div>
+
+
+                <div class="rounded-md text-center p-3">
+                    <a href="/volantino_stampa.pdf" target="_blank">
+                        <img src="../assets/images/manifesto_emanele.png" />
+                    </a>
+                </div>
             </div>
 
         </div>
